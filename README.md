@@ -1,6 +1,6 @@
 # AI Projects - 6th Semester University Lab
 
-A curated collection of machine learning and data science projects jointly developed with classmates as part of **6th Semester University Laboratory Projects**.
+A curated collection of machine learning and data science projects developed by **Md Shuvon with classmates** as part of **6th Semester University Laboratory Projects**.
 
 The repository demonstrates practical applications of supervised learning, feature engineering, model evaluation, sports analytics, regression, and classification.
 
@@ -106,6 +106,6 @@ These laboratory projects provide hands-on practice with:
 
 ## Academic Disclaimer
 
-This repository is a collaborative academic submission and learning portfolio created with classmates for **6th Semester University Laboratory Projects**. The predictions and model outputs are intended for educational experimentation only. They are not official sports forecasts, medical advice, insurance quotations, or professional decision-making tools.
+This repository is a collaborative academic submission and learning portfolio created by **Md Shuvon with classmates** for **6th Semester University Laboratory Projects**. The predictions and model outputs are intended for educational experimentation only. They are not official sports forecasts, medical advice, insurance quotations, or professional decision-making tools.
 
 Repository: [AI-Projects-6th_Semester](https://github.com/MdShuvon/AI-Projects-6th_Semester)
