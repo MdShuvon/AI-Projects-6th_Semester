@@ -99,4 +99,4 @@ The projects use standard regression and classification metrics:
 
 ## Academic Note
 
-This folder was developed as part of the **6th Semester University Laboratory Projects**. The models are intended for educational experimentation and should not be treated as professional medical, financial, or clinical decision-making systems.
+This folder was jointly developed with classmates as part of the **6th Semester University Laboratory Projects**. The models are intended for educational experimentation and should not be treated as professional medical, financial, or clinical decision-making systems.

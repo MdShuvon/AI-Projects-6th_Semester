@@ -94,4 +94,4 @@ The output includes:
 
 ## Academic Note
 
-This project was developed as part of the **6th Semester University Laboratory Projects**. The prediction is educational and statistical; it is not an official FIFA forecast or a guarantee of real-world match results.
+This project was jointly developed with classmates as part of the **6th Semester University Laboratory Projects**. The prediction is educational and statistical; it is not an official FIFA forecast or a guarantee of real-world match results.
